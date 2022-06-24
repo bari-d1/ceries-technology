@@ -1,0 +1,12 @@
+:root{
+/* CSS HEX */
+--aqua-haze: #f0f5f7;
+--matisse: #224c9f;
+--pigeon-post: #a6b7d4;
+--waterloo-: #7f848f;
+--shuttle-gray: #67696e;
+--kashmir-blue: #516b9f;
+--horizon: #6480ac;
+--pale-slate: #bcb4bc;
+--danube: #6c94d4;
+}
