@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    /* background-color: #FCFBFF; */
+    width: 100%;
+    margin: 0;
+}
+
+.partners{
+    text-align: left;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    padding: 5%;
+    font-size: 0.8em;
+    background-color: #FCFBFF;
+}
+.partner{
+    background-color: white;
+    padding: 5%;
+}
+.partners img{
+    width: 80px;
+    height: 80px;
+}
+
+.partner-header{
+    display: grid;
+    grid-template-columns: auto auto;
+    /* width: 70%; */
+    /* border: solid 1px black; */
+    text-align: left;
+    place-items: center;
+    
+}
+.partner-header h3{
+    font-size: 1.5em;
+}
+

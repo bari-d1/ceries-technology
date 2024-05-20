@@ -1,0 +1,38 @@
+.edu-container{
+    display: grid;
+    grid-template-columns: 30% auto;
+    /* place-items: center; */
+    padding: 5%;
+}
+
+.header{
+    color: #172A7C;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.edu-left li{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 5%;
+    font-size: 0.8em;
+}
+.edu-left i{
+    text-align: right;
+    /* padding-left: 60%; */
+}
+.header-left{
+    font-size: 1.5em;
+    font-size: bold;
+    color: #172A7C;
+    margin-bottom: 5%;
+}
+.edu-right{
+    padding: 0 10%;
+}
+
+.edu-left img{
+    border-radius: 5px;
+    margin-bottom: 5%;
+    width: 100%;
+}

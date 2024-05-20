@@ -1,0 +1,43 @@
+.services{
+    margin: 0;
+    padding: 5%;
+    background-color: #FCFBFF;
+}
+.services{
+    display: grid;
+    grid-template-columns: 30% auto;
+}
+.services-left{
+    color: #636363;
+}
+.services-left li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.services-right{
+    /* border: solid 1px black; */  
+    /* margin-left:5%; */
+    padding: 0 10%;
+    color: #636363;
+}
+.services-left li{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 8%;
+    font-size: 1em;
+}
+.services-left i{
+    text-align: right;
+    /* padding-left: 60%; */
+}
+.services-left h1{
+    font-size: 2em;
+    color: #172A7C;
+    margin-bottom: 10%;
+}
+
+.service-header{
+    color: #172A7C;
+    font-size: 1.5em;
+}
